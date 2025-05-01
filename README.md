@@ -5,3 +5,4 @@ end points -
 /api/cooker
 /api/marsh
 /api/watch
+/api/cric
